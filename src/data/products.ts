@@ -32,8 +32,8 @@ export const products: Product[] = [
       base: ['العود الهندي المعتق', 'العنبر الرمادي', 'خشب الأرز', 'المسك الأسود'],
     },
     images: [
-      '/images/nubl/campaigns/signature-product.jpg',
       '/images/nubl/products/perfume-private-reserve.jpg',
+      '/images/nubl/campaigns/signature-product.jpg',
       '/images/nubl/hero/hero-desktop.jpg',
     ],
   },
@@ -67,8 +67,8 @@ export const products: Product[] = [
       base: ['خشب الصندل الأسترالي', 'التونكا المحمصة', 'العنبر الكريستالي'],
     },
     images: [
-      '/images/nubl/hero/hero-desktop.jpg',
       '/images/nubl/products/perfume-nubl-main.jpg',
+      '/images/nubl/hero/hero-desktop.jpg',
       '/images/nubl/collections/collection-perfumes.jpg',
     ],
   },
@@ -229,8 +229,8 @@ export const products: Product[] = [
       'كسرة واحدة بحجم عقلة الإصبع تكفي لتعطير مساحة 80 متراً مربعاً بالكامل.',
     ],
     images: [
-      '/images/nubl/collections/collection-incense.jpg',
       '/images/nubl/products/incense-royal-main.jpg',
+      '/images/nubl/collections/collection-incense.jpg',
     ],
   },
   {
@@ -364,8 +364,8 @@ export const products: Product[] = [
       character: 'معماري - مقاوم للحرارة العالية',
     },
     images: [
-      '/images/nubl/collections/collection-burners.jpg',
       '/images/nubl/products/burner-darkstone-main.jpg',
+      '/images/nubl/collections/collection-burners.jpg',
     ],
   },
   {
@@ -470,8 +470,8 @@ export const products: Product[] = [
       origin: 'الكويت',
     },
     images: [
-      '/images/nubl/collections/collection-gifts.jpg',
       '/images/nubl/products/gift-royal-set.jpg',
+      '/images/nubl/collections/collection-gifts.jpg',
     ],
   },
   {
